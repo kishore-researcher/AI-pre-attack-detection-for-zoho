@@ -147,4 +147,4 @@ Integrated with the Predictive AI Defense Model (PADM), this creates a multi-lay
 Gmail: kishore21061@gmail.com 
 Mobile: 9786750241
 Instagram: Kishore.ly
-portfolio: https://github.com/Kishoresweety
+portfolio: https://portfolio-kishoresweety.vercel.app
